@@ -11,5 +11,5 @@ HomePage criada para mostrar uma possível loja de NFT's de roupas para o metave
 
 
 O importante é continuar caminhando, em algum momento você chega!
-## Getting Started
+## REACTJS
 
