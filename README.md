@@ -4,7 +4,7 @@
 
 HomePage criada para mostrar uma possível loja de NFT's de roupas para o metaverso", desenvolvido através de ReactJS e TailwindCSS
 <p align="center">
-  <img width="240" height="427" src="https://github.com/vinicius4006/NFTHomePage/blob/master/src/img/webpage.jpeg">
+  <img width="620" height="1337" src="https://github.com/vinicius4006/NFTHomePage/blob/master/src/img/webpage.jpeg">
   
 </p>
 
